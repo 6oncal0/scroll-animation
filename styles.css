@@ -7,7 +7,7 @@ body {
 .scroll-animation {
     width: 100%;
     height: 400px;
-    background-image: url('sprite-sheet.png'); /* Troque pelo seu sprite */
+    background-image: url('0001.png'); /* Troque pelo seu sprite */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 0px 0px;
