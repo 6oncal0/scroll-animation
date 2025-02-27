@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    height: 200vh; /* Criamos uma rolagem longa para o efeito */
+    background-color: black;
+}
+
+.scroll-animation {
+    width: 100%;
+    height: 400px;
+    background-image: url('sprite-sheet.png'); /* Troque pelo seu sprite */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+}
